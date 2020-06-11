@@ -1,0 +1,3 @@
+[submodule "Middlewares/ST/STM32_ImgProc"]
+	path = Middlewares/ST/STM32_ImgProc
+	url = ssh://gitolite@codex.cro.st.com/ai-poc/STM32_ImgProc.git
